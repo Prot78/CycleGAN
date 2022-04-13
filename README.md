@@ -25,5 +25,6 @@ Figure3: Starting and targeted image generated at the end of the training by the
 
 
 
-The project was modified by the code proposed by the paper found in the paper folder:
+The code propose in this project was modified from the reference:
 Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros  Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.
+A pdf version can be found in the paper folder
