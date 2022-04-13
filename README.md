@@ -3,7 +3,7 @@
 These project creates synthetic mirrow images for MRI brain of a murine model.
 The CycleGAN_train.py go through a training section and a validation. Here some of the images created during the process.
 
-
+![hello](images/1_TRAIN_sample.png).
 
 
 The project was modified by the code proposed by the paper found in the paper folder:
