@@ -7,4 +7,4 @@ The CycleGAN.py go through a training section and a validation. Here some of the
 
 
 The project was modified by the code proposed by the paper found in the paper folder:
-Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros  Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. 2020
+Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros  Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.
