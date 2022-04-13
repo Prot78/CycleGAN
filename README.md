@@ -1,7 +1,7 @@
 # CycleGAN for MRI images
 
 These project creates synthetic mirrow images for MRI brain of a murine model.
-The CycleGAN.py go through a training section and a validation. Here some of the images created during the process.
+The CycleGAN_train.py go through a training section and a validation. Here some of the images created during the process.
 
 
 
